@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pe-te-r
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning css.
+- 🌱 I’m currently learning sevelte framework
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me +254748200233 ...whatsapp number. 
 
