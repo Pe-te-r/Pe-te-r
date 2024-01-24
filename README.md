@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Pe-te-r
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning sevelte framework
-- 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me +254748200233 ...whatsapp number. 
+👋 Hello there! I'm phantom, a passionate software developer actively venturing into the fascinating realm of Artificial Intelligence. Currently, I'm diving deep into AI. My toolkit includes Python, and I'm harnessing its power to unlock the secrets of intelligent systems.
 
-<!---
-Pe-te-r/Pe-te-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 In addition to my AI endeavors, I'm a seasoned Python web developer with expertise in Flask, and I'm well-versed in the trio of web technologies: JavaScript, CSS, and HTML. I love crafting elegant and responsive web applications that deliver seamless user experiences.
+
+🚀 On a learning journey that's ever-expanding, I'm on a mission to absorb the latest trends in AI while maintaining my proficiency in web development. 
+
+🌱 Join me as I navigate the dynamic landscape of technology, embrace new challenges, and share my coding adventures. Let's connect and build something extraordinary together!
+
+
